@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+se@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
 
 :root {
     --azul-dnc: #0c70f2;
@@ -252,6 +252,8 @@ footer .linha2 a:first-child {
 footer .linha2 a:hover {
     color: var(--cinza);
 }
+
+/* aqui temos a responsividade para aparelhos telefônicos */
 
 @media only screen and (max-width: 480px) {
     
